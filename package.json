@@ -9,7 +9,7 @@
   },
   "dependencies": {
 
-    "expo": "39.0.5",
+    "expo": "57.0.25",
     "expo-status-bar": "1.0.4",
 
     "react": "16.14.0",
@@ -18,7 +18,7 @@
     "react-native-web": "0.13.18"
   },
   "devDependencies": {
-    "@babel/core": "7.9.6"
+    "@babel/core": "7.29.7"
   },
   "private": true
 }
